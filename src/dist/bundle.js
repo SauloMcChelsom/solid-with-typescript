@@ -1,0 +1,1 @@
+(()=>{"use strict";(new(function(){function n(){}return n.prototype.run=function(){console.log("create your implements")},n}())).run()})();
