@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "webpack",
-    "start": "http-server"
+    "app": "webpack",
+    "start": "http-server C:/workspaces/solid-with-typescript/src"
   },
   "author": "",
   "license": "ISC",
